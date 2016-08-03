@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient( rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), url(http://i.dailymail.co.uk/i/pix/2014/10/02/1412247815739_wps_46_A_fast_food_restaurant_le.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    ;
+}
+
+h1 {
+	text-align: center;
+}
+
+#notEaten {
+	float:right;
+}
+
+#addBurger {
+	margin-left:0 auto;
+}
